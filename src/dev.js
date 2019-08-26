@@ -3,7 +3,7 @@ export const dev = [
     id: 1,
     name: 'Pranshu Kumbhare',
     username: 'pranshu2610',
-    email: 'kumbharepranshu@gmail.com'
+    email: 'example@gmail.com'
   },
   {
     id: 2,
